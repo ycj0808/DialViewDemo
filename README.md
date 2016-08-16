@@ -11,3 +11,5 @@ compile 'com.android.icefire:dialview:0.1'
         app:border_color="#ff1ff41f"
         app:border_width="2dp"
         />
+        
+        
