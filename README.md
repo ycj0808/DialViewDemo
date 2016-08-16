@@ -5,13 +5,13 @@
 compile 'com.android.icefire:dialview:0.1'
 
 在布局文件中引用<br/>
-<pre<com.android.icefire.dialview.DialView
+<pre>
+<com.android.icefire.dialview.DialView
         android:id="@+id/view1"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
+        android:layout_height="match_parent"
         app:border_color="#ff1ff41f"
-        app:border_width="2dp"
-        android:layout_weight="1"
-        /><pre>
+        />
+        <pre>
         
         
