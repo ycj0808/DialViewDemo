@@ -4,7 +4,6 @@
 使用方法：
 compile 'com.android.icefire:dialview:0.1'
 
-在布局文件中引用
 ``<com.android.icefire.dialview.DialView
         android:id="@+id/view1"
         android:layout_width="match_parent"
